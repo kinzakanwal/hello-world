@@ -6,6 +6,11 @@
      <p> is used for writting a paragraph in HTML.
      
 ## a Tag
+
+       Anchor tag is used for adding links in HTML.
+## div 
+      Div tag is used to create a division.
+
        Anchor tag <a> is used for adding links in HTML.
 
 ## img Tag
@@ -21,6 +26,7 @@
   ## ul tag
        <ul> is used for unordered things.
     master
+
     
  ## ol tag
      ol tag is used for ordered list. (e.g. numerically ordered)

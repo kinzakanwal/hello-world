@@ -8,11 +8,20 @@
      
 ## a Tag
        Anchor tag <a> is used for adding links in HTML.
-master
-       
+
+## img Tag
+     img tag is used in HTML for adding images.
+
+## li tag
+      li tag is used for listing list elements under ol or ul tag.
+
  ## li tag
       <li> is used for arranging things in a list.
+
       
   ## ul tag
        <ul> is used for unordered things.
     master
+    
+ ## ol tag
+     ol tag is used for ordered list. (e.g. numerically ordered)

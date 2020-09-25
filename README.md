@@ -1,23 +1,26 @@
-//THE PROGRAM WRITESTO OUTPUT THE HELLO WORLD
+//THE PROGRAM WRITES TO OUTPUT THE "HELLO WORLD" USING HTML
 # hello-world
 ## h1 Tag
-   h1 is used for heading in HTML. Then can use h2, h3 and so on for samller headings/sub headings.
+  <h1> is used for main heading in HTML. Then <h2>, <h3> and so on can be used for smaller headings/sub headings.
 ## p Tag 
 
-     p is used for writting a paragraph in HTML.
+     <p> is used for writting a paragraph in HTML.
      
 ## a Tag
-       Anchor tag is used for adding links in HTML.
-master
-       
+       Anchor tag <a> is used for adding links in HTML.
+
 ## img Tag
      img tag is used in HTML for adding images.
 
 ## li tag
       li tag is used for listing list elements under ol or ul tag.
+
+ ## li tag
+      <li> is used for arranging things in a list.
+
       
   ## ul tag
-       ul is used for unordered things.
+       <ul> is used for unordered things.
     master
     
  ## ol tag
